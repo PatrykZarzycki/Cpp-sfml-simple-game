@@ -1,0 +1,5 @@
+#mapa
+mapa2
+
+#obiekty
+Gracz gracz 328.725 555.922 200 3 grafiki/postac2/ 0.15 0.15
