@@ -3,7 +3,7 @@ A simple game inspired by Stardew Valley, developed as a programming class proje
 
 There's no point in playing the game. The purpose of developing this project was just to improve programming skills.
 
-## Features
+## Main features
 - isometric view
 - randomly generated maps in 3 sizes
 - simple saving and loading tile maps
