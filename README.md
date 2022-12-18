@@ -1,7 +1,9 @@
 # Cpp-sfml-simple-game
-A simple game inspired by Stardew Valley, developed as a programming class project at the university
+A simple game inspired by Stardew Valley, developed as a programming class project at the university.
 
 There's no point in playing the game. The purpose of developing this project was just to improve programming skills.
+
+(I don't really know why I wrote it in Polish back then ;P)
 
 ## Main features
 - isometric view
