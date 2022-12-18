@@ -12,7 +12,7 @@ There's no point in playing the game. The purpose of developing this project was
 - resizable window
 
 ## How to run it?
-To run the game just run **gra_pg.exe** in **ready_to_run** directory
+To run the game just go to **ready_to_run** directory and run **gra_pg.exe**
 
 To make Visual Studio project work in your VS:
 * download the lastest version of the SFML library from https://www.sfml-dev.org/
