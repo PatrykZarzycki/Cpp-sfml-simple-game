@@ -3,7 +3,7 @@ A simple game inspired by Stardew Valley, developed as a programming class proje
 
 There's no point in playing the game. The purpose of developing this project was just to improve programming skills.
 
-(I don't really know why I wrote it in Polish back then ;P)
+(It is written in Polish)
 
 ## Main features
 - isometric view
